@@ -78,6 +78,16 @@ engine: knitr
 - Maybe you care about how much/the shape of the variability there is within a group once average differences are controlled for
 - By focusing on how people with the same observables vary we can avoid essentializing people?
 
+## CAUSAL QUARTETS
+
+![From Gelman et al. 2023](images/causal-quartets.png)
+## CAUSAL QUARTETS
+
+- So what? [@gelmanCausalQuartetsDifferent2023]
+- "Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology, as discussed in Gelman, 2014)"
+- "Variation across situations is relevant when deciding what “flavor” of treatment to do, for example with dosing in pharmacology or treatment levels in traditional agricultural experiments."
+
+
 
 ## WHAT ABOUT IMPACT? {.center background-image="images/blank-background.png"}
 
@@ -98,3 +108,15 @@ _Thanks to Alasdair Rutherford for suggesting this point!_
 
 ## THANKS EVERYONE! {.center background-image="images/blank-background.png"}
 
+
+## THANKS EVERYONE! {.smaller background-image="images/blank-background.png"}
+
+::: {#refs}
+:::
+
+
+## BONUS
+
+- One area where our two regimes does matter is model fit
+- In case of linear model, R2 is fraction of variance explained
+- So the model in the high variance scenario will have a lower R2
