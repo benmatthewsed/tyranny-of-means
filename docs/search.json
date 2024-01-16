@@ -2,99 +2,120 @@
   {
     "objectID": "tyranny_of_means.html#do-we-care-about-averages-or-individuals",
     "href": "tyranny_of_means.html#do-we-care-about-averages-or-individuals",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "DO WE CARE ABOUT AVERAGES OR INDIVIDUALS?",
     "text": "DO WE CARE ABOUT AVERAGES OR INDIVIDUALS?"
   },
   {
     "objectID": "tyranny_of_means.html#discriminatory-accuracy",
     "href": "tyranny_of_means.html#discriminatory-accuracy",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "DISCRIMINATORY ACCURACY",
     "text": "DISCRIMINATORY ACCURACY\n\nCentral paradox: “an exposure may be “strongly” associated with an outcome, but simultaneously have a very weak capacity for discriminating cases and non-cases of disease in the population”\n“For example, when we say that people with diabetes have a threefold higher risk for Coronary Heart Disease (i.e., OR = 3), we are implicitly using diabetes as a predictive test to classify who will, and will not, suffer from a coronary event in the population. However, contrary to popular belief, measures of association alone are inappropriate for this discriminatory purpose.”"
   },
   {
     "objectID": "tyranny_of_means.html#discriminatory-accuracy-1",
     "href": "tyranny_of_means.html#discriminatory-accuracy-1",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "DISCRIMINATORY ACCURACY",
     "text": "DISCRIMINATORY ACCURACY"
   },
   {
     "objectID": "tyranny_of_means.html#same-observables-different-outcomes",
     "href": "tyranny_of_means.html#same-observables-different-outcomes",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "SAME OBSERVABLES: DIFFERENT OUTCOMES",
     "text": "SAME OBSERVABLES: DIFFERENT OUTCOMES"
   },
   {
     "objectID": "tyranny_of_means.html#when-do-we-want-average",
     "href": "tyranny_of_means.html#when-do-we-want-average",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "WHEN DO WE WANT AVERAGE?",
     "text": "WHEN DO WE WANT AVERAGE?\n\nPeople with the same observables can have very different outcomes\nDo we really care about group averages? Yes in some circumstances but no in others?\nMaybe not surprising that this Merlo is an Epidemiologist? In health, you’re likely to have a single patient in front of you and you want to know the probability of some outcome given observables\nDoes this fit in your field?"
   },
   {
     "objectID": "tyranny_of_means.html#population-thinking-vs-typological-thinking",
     "href": "tyranny_of_means.html#population-thinking-vs-typological-thinking",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "POPULATION THINKING VS TYPOLOGICAL THINKING",
     "text": "POPULATION THINKING VS TYPOLOGICAL THINKING"
   },
   {
     "objectID": "tyranny_of_means.html#typological-thinking",
     "href": "tyranny_of_means.html#typological-thinking",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "TYPOLOGICAL THINKING",
     "text": "TYPOLOGICAL THINKING\n\nAdolphe Quetelet and the ‘average man’ – variance around the mean is noise/deviance from the ‘true’ value\n“In typological thinking, deviations from the mean are simply “errors,” with the mean approaching the true cause. That is, the true cause is constant, but what we actually observe is contaminated by measurement error.”\nSee also Hacking"
   },
   {
     "objectID": "tyranny_of_means.html#population-thinking",
     "href": "tyranny_of_means.html#population-thinking",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "POPULATION THINKING",
     "text": "POPULATION THINKING\n\nDarwin and Galton (eek!) - how some characteristic is distributed (i.e. its variance) is as important as the average\n“Inherent population heterogeneity… makes it futile to draw “law-like” inferences from statistical analyses in social science.”"
   },
   {
     "objectID": "tyranny_of_means.html#does-it-matter-in-practice",
     "href": "tyranny_of_means.html#does-it-matter-in-practice",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "DOES IT MATTER IN PRACTICE?",
     "text": "DOES IT MATTER IN PRACTICE?\n\nThis primarily affects interpretation not estimation\nFor a regression model, maths is the same for the two perspectives 1\nBut thinking about the problem is different?\nMeasuring a fixed but unknown beta with some error vs “observations of y could differ from one another not only because of measurement error but also because they are inherently different members of the same population”"
   },
   {
     "objectID": "tyranny_of_means.html#does-it-matter-in-practice-1",
     "href": "tyranny_of_means.html#does-it-matter-in-practice-1",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "DOES IT MATTER IN PRACTICE?",
     "text": "DOES IT MATTER IN PRACTICE?\n\nI don’t think really many people now think in this typological way?\nEspecially in the social sciences I think people are happy with the idea of ‘sampling variability’/irreducible error?"
   },
   {
     "objectID": "tyranny_of_means.html#a-useful-tool-for-thinking",
     "href": "tyranny_of_means.html#a-useful-tool-for-thinking",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "A USEFUL TOOL FOR THINKING?",
     "text": "A USEFUL TOOL FOR THINKING?\n\nThe population thinking approach is useful encourage thinking along these lines – the variation is something that you can model explicitly if you want to\nMaybe you care about how much/the shape of the variability there is within a group once average differences are controlled for\nBy focusing on how people with the same observables vary we can avoid essentializing people?"
   },
   {
+    "objectID": "tyranny_of_means.html#causal-quartets",
+    "href": "tyranny_of_means.html#causal-quartets",
+    "title": "The Tyranny of the Means",
+    "section": "CAUSAL QUARTETS",
+    "text": "CAUSAL QUARTETS\n ## CAUSAL QUARTETS\n\nSo what? (Gelman, Hullman, and Kennedy 2023)\n“Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology, as discussed in Gelman, 2014)”\n“Variation across situations is relevant when deciding what “flavor” of treatment to do, for example with dosing in pharmacology or treatment levels in traditional agricultural experiments.”"
+  },
+  {
     "objectID": "tyranny_of_means.html#what-about-impact",
     "href": "tyranny_of_means.html#what-about-impact",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "WHAT ABOUT IMPACT?",
     "text": "WHAT ABOUT IMPACT?"
   },
   {
     "objectID": "tyranny_of_means.html#what-about-impact-1",
     "href": "tyranny_of_means.html#what-about-impact-1",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "WHAT ABOUT IMPACT?",
     "text": "WHAT ABOUT IMPACT?\n\n\n\nThe current push for focus on immediate impact (i.e how can our research lead individual orgs to do different things) rather than broader impact (influencing a policy design) means that we may need to think more about how the implications might be used at a more micro-level\nDoes all this mean that basing a call for some people (government? Charity?) to do something of a statistically significant beta is misguided?\n\n\nThanks to Alasdair Rutherford for suggesting this point!"
   },
   {
     "objectID": "tyranny_of_means.html#thanks-everyone",
     "href": "tyranny_of_means.html#thanks-everyone",
-    "title": "what_to_do_odds_ratios",
+    "title": "The Tyranny of the Means",
     "section": "THANKS EVERYONE!",
     "text": "THANKS EVERYONE!"
+  },
+  {
+    "objectID": "tyranny_of_means.html#thanks-everyone-1",
+    "href": "tyranny_of_means.html#thanks-everyone-1",
+    "title": "The Tyranny of the Means",
+    "section": "THANKS EVERYONE!",
+    "text": "THANKS EVERYONE!\n\n\nGelman, Andrew, Jessica Hullman, and Lauren Kennedy. 2023. “Causal Quartets: Different Ways to Attain the Same Average Treatment Effect.” arXiv. https://doi.org/10.48550/arXiv.2302.12878."
+  },
+  {
+    "objectID": "tyranny_of_means.html#bonus",
+    "href": "tyranny_of_means.html#bonus",
+    "title": "The Tyranny of the Means",
+    "section": "BONUS",
+    "text": "BONUS\n\nOne area where our two regimes does matter is model fit\nIn case of linear model, R2 is fraction of variance explained\nSo the model in the high variance scenario will have a lower R2"
   }
 ]

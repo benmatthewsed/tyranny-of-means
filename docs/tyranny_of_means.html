@@ -11,7 +11,7 @@
   <meta name="generator" content="quarto-1.3.433">
 
   <meta name="author" content="">
-  <title>what_to_do_odds_ratios -</title>
+  <title>The Tyranny of the Means -</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -29,7 +29,26 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -413,6 +432,15 @@
 <li>By focusing on how people with the same observables vary we can avoid essentializing people?</li>
 </ul>
 </section>
+<section id="causal-quartets" class="slide level2">
+<h2>CAUSAL QUARTETS</h2>
+<p><img data-src="images/causal-quartets.png" alt="From Gelman et al.&nbsp;2023"> ## CAUSAL QUARTETS</p>
+<ul>
+<li>So what? <span class="citation" data-cites="gelmanCausalQuartetsDifferent2023">(<a href="#/thanks-everyone-1" role="doc-biblioref" onclick="">Gelman, Hullman, and Kennedy 2023</a>)</span></li>
+<li>“Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology, as discussed in Gelman, 2014)”</li>
+<li>“Variation across situations is relevant when deciding what “flavor” of treatment to do, for example with dosing in pharmacology or treatment levels in traditional agricultural experiments.”</li>
+</ul>
+</section>
 <section id="what-about-impact" class="slide level2 center" data-background-image="images/blank-background.png">
 <h2>WHAT ABOUT IMPACT?</h2>
 </section>
@@ -431,6 +459,22 @@
 </section>
 <section id="thanks-everyone" class="slide level2 center" data-background-image="images/blank-background.png">
 <h2>THANKS EVERYONE!</h2>
+</section>
+<section id="thanks-everyone-1" class="slide level2 smaller scrollable" data-background-image="images/blank-background.png">
+<h2>THANKS EVERYONE!</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-gelmanCausalQuartetsDifferent2023" class="csl-entry" role="listitem">
+Gelman, Andrew, Jessica Hullman, and Lauren Kennedy. 2023. <span>“Causal Quartets: <span>Different</span> Ways to Attain the Same Average Treatment Effect.”</span> <span>arXiv</span>. <a href="https://doi.org/10.48550/arXiv.2302.12878">https://doi.org/10.48550/arXiv.2302.12878</a>.
+</div>
+</div>
+</section>
+<section id="bonus" class="slide level2">
+<h2>BONUS</h2>
+<ul>
+<li>One area where our two regimes does matter is model fit</li>
+<li>In case of linear model, R2 is fraction of variance explained</li>
+<li>So the model in the high variance scenario will have a lower R2</li>
+</ul>
 
 <div class="footer footer-default">
 
