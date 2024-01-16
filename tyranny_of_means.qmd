@@ -8,7 +8,7 @@ format:
   revealjs:
     smaller: true
     scrollable: true
-    theme: [default, custom.scss]
+    theme: [custom.scss]
 engine: knitr
 ---
 ## {#slide1-id data-menu-title="Slide 1 title for outline" background-image="images/title-01.png"}
@@ -100,7 +100,6 @@ engine: knitr
 
 ## WHAT ABOUT IMPACT? 
 
-::: columns
 - The current push for focus on immediate impact (i.e how can our research lead individual orgs to do different things) rather than broader impact (influencing a policy design) means that we may need to think more about how the implications might be used at a more micro-level 
 - Does all this mean that basing a call for some people (government? Charity?) to do something of a statistically significant beta is misguided?
 
