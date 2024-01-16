@@ -2,7 +2,7 @@
 title: ""
 title-slide-attributes:
     data-background-image: "images/title-01.png"
-# bibliography: tyranny_means.bib
+bibliography: tyranny-of-means.bib
 author: ""
 format:
   revealjs:
