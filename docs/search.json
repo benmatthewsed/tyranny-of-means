@@ -7,27 +7,6 @@
     "text": "DO WE CARE ABOUT AVERAGES OR INDIVIDUALS?"
   },
   {
-    "objectID": "tyranny_of_means.html#discriminatory-accuracy",
-    "href": "tyranny_of_means.html#discriminatory-accuracy",
-    "title": "The Tyranny of the Means",
-    "section": "DISCRIMINATORY ACCURACY",
-    "text": "DISCRIMINATORY ACCURACY\n\nCentral paradox: “an exposure may be “strongly” associated with an outcome, but simultaneously have a very weak capacity for discriminating cases and non-cases of disease in the population” (Merlo 2018)\n“For example, when we say that people with diabetes have a threefold higher risk for Coronary Heart Disease (i.e., OR = 3), we are implicitly using diabetes as a predictive test to classify who will, and will not, suffer from a coronary event in the population. However, contrary to popular belief, measures of association alone are inappropriate for this discriminatory purpose.” (Merlo et al. 2017)"
-  },
-  {
-    "objectID": "tyranny_of_means.html#discriminatory-accuracy-1",
-    "href": "tyranny_of_means.html#discriminatory-accuracy-1",
-    "title": "The Tyranny of the Means",
-    "section": "DISCRIMINATORY ACCURACY",
-    "text": "DISCRIMINATORY ACCURACY"
-  },
-  {
-    "objectID": "tyranny_of_means.html#same-observables-different-outcomes",
-    "href": "tyranny_of_means.html#same-observables-different-outcomes",
-    "title": "The Tyranny of the Means",
-    "section": "SAME OBSERVABLES: DIFFERENT OUTCOMES",
-    "text": "SAME OBSERVABLES: DIFFERENT OUTCOMES"
-  },
-  {
     "objectID": "tyranny_of_means.html#when-do-we-want-average",
     "href": "tyranny_of_means.html#when-do-we-want-average",
     "title": "The Tyranny of the Means",
@@ -67,7 +46,14 @@
     "href": "tyranny_of_means.html#does-it-matter-in-practice-1",
     "title": "The Tyranny of the Means",
     "section": "DOES IT MATTER IN PRACTICE?",
-    "text": "DOES IT MATTER IN PRACTICE?\n\nI don’t think really many people now think in this typological way?\nEspecially in the social sciences I think people are happy with the idea of ‘sampling variability’/irreducible error?"
+    "text": "DOES IT MATTER IN PRACTICE?\n\nI don’t think really many people now think in this typological way?\nEspecially in the social sciences I think people are happy with the idea of ‘sampling variability’/irreducible error?\nBut the same idea can trip us up interpreting regression coefficients"
+  },
+  {
+    "objectID": "tyranny_of_means.html#causal-quartets",
+    "href": "tyranny_of_means.html#causal-quartets",
+    "title": "The Tyranny of the Means",
+    "section": "CAUSAL QUARTETS",
+    "text": "CAUSAL QUARTETS\n ## CAUSAL QUARTETS\n\nSo what? (Gelman, Hullman, and Kennedy 2023)\n“Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology”\n“Variation across situations is relevant when deciding what “flavor” of treatment to do, for example with dosing in pharmacology or treatment levels in traditional agricultural experiments.”"
   },
   {
     "objectID": "tyranny_of_means.html#a-useful-tool-for-thinking",
@@ -77,11 +63,32 @@
     "text": "A USEFUL TOOL FOR THINKING?\n\nThe population thinking approach is useful encourage thinking along these lines – the variation is something that you can model explicitly if you want to\nMaybe you care about how much/the shape of the variability there is within a group once average differences are controlled for (Brunton-Smith, Sturgis, and Leckie 2018)\nBy focusing on how people with the same observables vary we can avoid essentializing people? (McCall 2005)"
   },
   {
-    "objectID": "tyranny_of_means.html#causal-quartets",
-    "href": "tyranny_of_means.html#causal-quartets",
+    "objectID": "tyranny_of_means.html#what-if-i-have-a-binary-outcome",
+    "href": "tyranny_of_means.html#what-if-i-have-a-binary-outcome",
     "title": "The Tyranny of the Means",
-    "section": "CAUSAL QUARTETS",
-    "text": "CAUSAL QUARTETS\n ## CAUSAL QUARTETS\n\nSo what? (Gelman, Hullman, and Kennedy 2023)\n“Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology”\n“Variation across situations is relevant when deciding what “flavor” of treatment to do, for example with dosing in pharmacology or treatment levels in traditional agricultural experiments.”"
+    "section": "WHAT IF I HAVE A BINARY OUTCOME?",
+    "text": "WHAT IF I HAVE A BINARY OUTCOME?"
+  },
+  {
+    "objectID": "tyranny_of_means.html#discriminatory-accuracy",
+    "href": "tyranny_of_means.html#discriminatory-accuracy",
+    "title": "The Tyranny of the Means",
+    "section": "DISCRIMINATORY ACCURACY",
+    "text": "DISCRIMINATORY ACCURACY\n\nIf you have a binary outcome, you’re having a bad time\nCentral paradox: “an exposure may be “strongly” associated with an outcome, but simultaneously have a very weak capacity for discriminating cases and non-cases of disease in the population” (Merlo 2018)\n“For example, when we say that people with diabetes have a threefold higher risk for Coronary Heart Disease (i.e., OR = 3), we are implicitly using diabetes as a predictive test to classify who will, and will not, suffer from a coronary event in the population. However, contrary to popular belief, measures of association alone are inappropriate for this discriminatory purpose.” (Merlo et al. 2017)"
+  },
+  {
+    "objectID": "tyranny_of_means.html#discriminatory-accuracy-1",
+    "href": "tyranny_of_means.html#discriminatory-accuracy-1",
+    "title": "The Tyranny of the Means",
+    "section": "DISCRIMINATORY ACCURACY",
+    "text": "DISCRIMINATORY ACCURACY"
+  },
+  {
+    "objectID": "tyranny_of_means.html#same-observables-different-outcomes",
+    "href": "tyranny_of_means.html#same-observables-different-outcomes",
+    "title": "The Tyranny of the Means",
+    "section": "SAME OBSERVABLES: DIFFERENT OUTCOMES",
+    "text": "SAME OBSERVABLES: DIFFERENT OUTCOMES"
   },
   {
     "objectID": "tyranny_of_means.html#what-about-impact",
