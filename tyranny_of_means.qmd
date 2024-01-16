@@ -1,0 +1,15 @@
+---
+title: ""
+title-slide-attributes:
+    data-background-image: "images/title-01.png"
+bibliography: tyranny_means.bib
+author: ""
+format:
+  revealjs:
+    smaller: true
+    scrollable: true
+    theme: [default, custom.scss]
+engine: knitr
+---
+
+## {#slide1-id data-menu-title="Slide 1 title for outline" background-image="images/title-02.png"}
