@@ -60,7 +60,8 @@ engine: knitr
 
 ## CAUSAL QUARTETS
 
-![From Gelman et al. 2023](images/causal-quartets.png){.r-stretch}
+![From Gelman et al. 2023](images/causal-quartets.png){width="90%"}
+
 ## CAUSAL QUARTETS
 
 - So what? [@gelmanCausalQuartetsDifferent2023]
