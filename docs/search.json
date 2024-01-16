@@ -11,7 +11,7 @@
     "href": "tyranny_of_means.html#discriminatory-accuracy",
     "title": "The Tyranny of the Means",
     "section": "DISCRIMINATORY ACCURACY",
-    "text": "DISCRIMINATORY ACCURACY\n\nCentral paradox: “an exposure may be “strongly” associated with an outcome, but simultaneously have a very weak capacity for discriminating cases and non-cases of disease in the population”\n“For example, when we say that people with diabetes have a threefold higher risk for Coronary Heart Disease (i.e., OR = 3), we are implicitly using diabetes as a predictive test to classify who will, and will not, suffer from a coronary event in the population. However, contrary to popular belief, measures of association alone are inappropriate for this discriminatory purpose.”"
+    "text": "DISCRIMINATORY ACCURACY\n\nCentral paradox: “an exposure may be “strongly” associated with an outcome, but simultaneously have a very weak capacity for discriminating cases and non-cases of disease in the population” (Merlo 2018)\n“For example, when we say that people with diabetes have a threefold higher risk for Coronary Heart Disease (i.e., OR = 3), we are implicitly using diabetes as a predictive test to classify who will, and will not, suffer from a coronary event in the population. However, contrary to popular belief, measures of association alone are inappropriate for this discriminatory purpose.” (Merlo et al. 2017)"
   },
   {
     "objectID": "tyranny_of_means.html#discriminatory-accuracy-1",
@@ -46,21 +46,21 @@
     "href": "tyranny_of_means.html#typological-thinking",
     "title": "The Tyranny of the Means",
     "section": "TYPOLOGICAL THINKING",
-    "text": "TYPOLOGICAL THINKING\n\nAdolphe Quetelet and the ‘average man’ – variance around the mean is noise/deviance from the ‘true’ value\n“In typological thinking, deviations from the mean are simply “errors,” with the mean approaching the true cause. That is, the true cause is constant, but what we actually observe is contaminated by measurement error.”\nSee also Hacking"
+    "text": "TYPOLOGICAL THINKING\n\nAdolphe Quetelet and the ‘average man’ – variance around the mean is noise/deviance from the ‘true’ value (Xie 2007)\n“In typological thinking, deviations from the mean are simply “errors,” with the mean approaching the true cause. That is, the true cause is constant, but what we actually observe is contaminated by measurement error.”\nSee also Hacking (1990)"
   },
   {
     "objectID": "tyranny_of_means.html#population-thinking",
     "href": "tyranny_of_means.html#population-thinking",
     "title": "The Tyranny of the Means",
     "section": "POPULATION THINKING",
-    "text": "POPULATION THINKING\n\nDarwin and Galton (eek!) - how some characteristic is distributed (i.e. its variance) is as important as the average\n“Inherent population heterogeneity… makes it futile to draw “law-like” inferences from statistical analyses in social science.”"
+    "text": "POPULATION THINKING\n\nDarwin and Galton (eek!) - how some characteristic is distributed (i.e. its variance) is as important as the average\n“Inherent population heterogeneity… makes it futile to draw “law-like” inferences from statistical analyses in social science.” (Xie 2007)"
   },
   {
     "objectID": "tyranny_of_means.html#does-it-matter-in-practice",
     "href": "tyranny_of_means.html#does-it-matter-in-practice",
     "title": "The Tyranny of the Means",
     "section": "DOES IT MATTER IN PRACTICE?",
-    "text": "DOES IT MATTER IN PRACTICE?\n\nThis primarily affects interpretation not estimation\nFor a regression model, maths is the same for the two perspectives 1\nBut thinking about the problem is different?\nMeasuring a fixed but unknown beta with some error vs “observations of y could differ from one another not only because of measurement error but also because they are inherently different members of the same population”"
+    "text": "DOES IT MATTER IN PRACTICE?\n\nThis primarily affects interpretation not estimation\nFor a regression model, maths is the same for the two perspectives (Xie 2007)\nBut thinking about the problem is different?\nMeasuring a fixed but unknown beta with some error vs “observations of y could differ from one another not only because of measurement error but also because they are inherently different members of the same population”"
   },
   {
     "objectID": "tyranny_of_means.html#does-it-matter-in-practice-1",
@@ -74,14 +74,14 @@
     "href": "tyranny_of_means.html#a-useful-tool-for-thinking",
     "title": "The Tyranny of the Means",
     "section": "A USEFUL TOOL FOR THINKING?",
-    "text": "A USEFUL TOOL FOR THINKING?\n\nThe population thinking approach is useful encourage thinking along these lines – the variation is something that you can model explicitly if you want to\nMaybe you care about how much/the shape of the variability there is within a group once average differences are controlled for\nBy focusing on how people with the same observables vary we can avoid essentializing people?"
+    "text": "A USEFUL TOOL FOR THINKING?\n\nThe population thinking approach is useful encourage thinking along these lines – the variation is something that you can model explicitly if you want to\nMaybe you care about how much/the shape of the variability there is within a group once average differences are controlled for (Brunton-Smith, Sturgis, and Leckie 2018)\nBy focusing on how people with the same observables vary we can avoid essentializing people? (McCall 2005)"
   },
   {
     "objectID": "tyranny_of_means.html#causal-quartets",
     "href": "tyranny_of_means.html#causal-quartets",
     "title": "The Tyranny of the Means",
     "section": "CAUSAL QUARTETS",
-    "text": "CAUSAL QUARTETS\n ## CAUSAL QUARTETS\n\nSo what? (Gelman, Hullman, and Kennedy 2023)\n“Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology, as discussed in Gelman, 2014)”\n“Variation across situations is relevant when deciding what “flavor” of treatment to do, for example with dosing in pharmacology or treatment levels in traditional agricultural experiments.”"
+    "text": "CAUSAL QUARTETS\n ## CAUSAL QUARTETS\n\nSo what? (Gelman, Hullman, and Kennedy 2023)\n“Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology”\n“Variation across situations is relevant when deciding what “flavor” of treatment to do, for example with dosing in pharmacology or treatment levels in traditional agricultural experiments.”"
   },
   {
     "objectID": "tyranny_of_means.html#what-about-impact",
@@ -95,7 +95,7 @@
     "href": "tyranny_of_means.html#what-about-impact-1",
     "title": "The Tyranny of the Means",
     "section": "WHAT ABOUT IMPACT?",
-    "text": "WHAT ABOUT IMPACT?\n\n\n\nThe current push for focus on immediate impact (i.e how can our research lead individual orgs to do different things) rather than broader impact (influencing a policy design) means that we may need to think more about how the implications might be used at a more micro-level\nDoes all this mean that basing a call for some people (government? Charity?) to do something of a statistically significant beta is misguided?\n\n\nThanks to Alasdair Rutherford for suggesting this point!"
+    "text": "WHAT ABOUT IMPACT?\n::: columns - The current push for focus on immediate impact (i.e how can our research lead individual orgs to do different things) rather than broader impact (influencing a policy design) means that we may need to think more about how the implications might be used at a more micro-level - Does all this mean that basing a call for some people (government? Charity?) to do something of a statistically significant beta is misguided?"
   },
   {
     "objectID": "tyranny_of_means.html#thanks-everyone",
@@ -109,13 +109,13 @@
     "href": "tyranny_of_means.html#thanks-everyone-1",
     "title": "The Tyranny of the Means",
     "section": "THANKS EVERYONE!",
-    "text": "THANKS EVERYONE!\n\n\nGelman, Andrew, Jessica Hullman, and Lauren Kennedy. 2023. “Causal Quartets: Different Ways to Attain the Same Average Treatment Effect.” arXiv. https://doi.org/10.48550/arXiv.2302.12878."
+    "text": "THANKS EVERYONE!\n\n\nBrunton-Smith, Ian, Patrick Sturgis, and George Leckie. 2018. “How Collective Is Collective Efficacy? The Importance of Consensus in Judgments About Community Cohesion and Willingness to Intervene.” Criminology 56 (3): 608–37. https://doi.org/10.1111/1745-9125.12180.\n\n\nGelman, Andrew, Jessica Hullman, and Lauren Kennedy. 2023. “Causal Quartets: Different Ways to Attain the Same Average Treatment Effect.” arXiv. https://doi.org/10.48550/arXiv.2302.12878.\n\n\nHacking, Ian. 1990. The Taming of Chance. Ideas in Context. Cambridge: Cambridge University Press. https://doi.org/10.1017/CBO9780511819766.\n\n\nMcCall, Leslie. 2005. “The Complexity of Intersectionality.” Signs: Journal of Women in Culture and Society 30 (3): 1771–1800. https://doi.org/10.1086/426800.\n\n\nMerlo, Juan. 2018. “Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) Within an Intersectional Framework.” Social Science & Medicine 203 (April): 74–80. https://doi.org/10.1016/j.socscimed.2017.12.026.\n\n\nMerlo, Juan, Shai Mulinari, Maria Wemrell, SV Subramanian, and Bo Hedblad. 2017. “The Tyranny of the Averages and the Indiscriminate Use of Risk Factors in Public Health: The Case of Coronary Heart Disease.” SSM - Population Health 3 (December): 684–98. https://doi.org/10.1016/j.ssmph.2017.08.005.\n\n\nXie, Yu. 2007. “Otis Dudley Duncan’s Legacy: The Demographic Approach to Quantitative Reasoning in Social Science.” Research in Social Stratification and Mobility 25 (2): 141–56. https://doi.org/10.1016/j.rssm.2007.05.006."
   },
   {
-    "objectID": "tyranny_of_means.html#bonus",
-    "href": "tyranny_of_means.html#bonus",
+    "objectID": "tyranny_of_means.html#bonus-model-fit",
+    "href": "tyranny_of_means.html#bonus-model-fit",
     "title": "The Tyranny of the Means",
-    "section": "BONUS",
-    "text": "BONUS\n\nOne area where our two regimes does matter is model fit\nIn case of linear model, R2 is fraction of variance explained\nSo the model in the high variance scenario will have a lower R2"
+    "section": "BONUS: MODEL FIT",
+    "text": "BONUS: MODEL FIT\n\nOne area where our two regimes does matter is model fit\nIn case of linear model, R2 is fraction of variance explained\nSo the model in the high variance scenario will have a lower R2"
   }
 ]

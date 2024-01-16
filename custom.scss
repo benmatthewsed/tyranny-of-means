@@ -1,3 +1,14 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Century Gothic", Helvetica, sans-serif !default;
+
+// headings
+$presentation-heading-font: "Century Gothic",	"Source Sans Pro", Helvetica, sans-serif;
+
+$presentation-heading-color: #811571;
+
+
 /*-- scss:rules --*/
 #title-slide {
   .title {

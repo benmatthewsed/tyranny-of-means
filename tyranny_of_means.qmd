@@ -27,9 +27,9 @@ engine: knitr
 
 ## DISCRIMINATORY ACCURACY
 
-- Central paradox: “an exposure may be “strongly” associated with an outcome, but simultaneously have a very weak capacity for discriminating cases and non-cases of disease in the population”
+- Central paradox: “an exposure may be “strongly” associated with an outcome, but simultaneously have a very weak capacity for discriminating cases and non-cases of disease in the population” [@merloMultilevelAnalysisIndividual2018]
 
-- “For example, when we say that people with diabetes have a threefold higher risk for Coronary Heart Disease (i.e., OR = 3), we are implicitly using diabetes as a predictive test to classify who will, and will not, suffer from a coronary event in the population. However, contrary to popular belief, measures of association alone are inappropriate for this discriminatory purpose.”
+- “For example, when we say that people with diabetes have a threefold higher risk for Coronary Heart Disease (i.e., OR = 3), we are implicitly using diabetes as a predictive test to classify who will, and will not, suffer from a coronary event in the population. However, contrary to popular belief, measures of association alone are inappropriate for this discriminatory purpose.” [@merloTyrannyAveragesIndiscriminate2017a]
 
 
 ## DISCRIMINATORY ACCURACY
@@ -51,19 +51,19 @@ engine: knitr
 
 ## TYPOLOGICAL THINKING
 
-- Adolphe Quetelet and the ‘average man’ – variance around the mean is noise/deviance from the ‘true’ value
+- Adolphe Quetelet and the ‘average man’ – variance around the mean is noise/deviance from the ‘true’ value [@xieOtisDudleyDuncan2007]
 - “In typological thinking, deviations from the mean are simply “errors,” with the mean approaching the true cause. That is, the true cause is constant, but what we actually observe is contaminated by measurement error.”
-- See also Hacking
+- See also @hackingTamingChance1990a
 
 ## POPULATION THINKING
 
 - Darwin and Galton (eek!) - how some characteristic is distributed (i.e. its variance) is as important as the average
-- “Inherent population heterogeneity… makes it futile to draw “law-like” inferences from statistical analyses in social science.”
+- “Inherent population heterogeneity… makes it futile to draw “law-like” inferences from statistical analyses in social science.” [@xieOtisDudleyDuncan2007]
 
 ## DOES IT MATTER IN PRACTICE?
 
 - This primarily affects interpretation not estimation
-- For a regression model, maths is the same for the two perspectives 1 
+- For a regression model, maths is the same for the two perspectives [@xieOtisDudleyDuncan2007]
 - But thinking about the problem is different?
 - Measuring a fixed but unknown beta with some error vs “observations of _y_ could differ from one another not only because of measurement error but also because they are inherently different members of the same population”
 
@@ -75,16 +75,16 @@ engine: knitr
 ## A USEFUL TOOL FOR THINKING?
 
 - The population thinking approach is useful encourage thinking along these lines – the variation is something that you can model explicitly if you want to
-- Maybe you care about how much/the shape of the variability there is within a group once average differences are controlled for
-- By focusing on how people with the same observables vary we can avoid essentializing people?
+- Maybe you care about how much/the shape of the variability there is within a group once average differences are controlled for [@brunton-smithHowCollectiveCollective2018]
+- By focusing on how people with the same observables vary we can avoid essentializing people? [@mccallComplexityIntersectionality2005]
 
 ## CAUSAL QUARTETS
 
-![From Gelman et al. 2023](images/causal-quartets.png)
+![From Gelman et al. 2023](images/causal-quartets.png){.r-stretch}
 ## CAUSAL QUARTETS
 
 - So what? [@gelmanCausalQuartetsDifferent2023]
-- "Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology, as discussed in Gelman, 2014)"
+- "Variation among people is relevant to policy (for example, personalized medicine) and understanding (for example in psychology"
 - "Variation across situations is relevant when deciding what “flavor” of treatment to do, for example with dosing in pharmacology or treatment levels in traditional agricultural experiments."
 
 
@@ -95,15 +95,9 @@ engine: knitr
 ## WHAT ABOUT IMPACT? 
 
 ::: columns
-::: {.column width="70%"}
 - The current push for focus on immediate impact (i.e how can our research lead individual orgs to do different things) rather than broader impact (influencing a policy design) means that we may need to think more about how the implications might be used at a more micro-level 
 - Does all this mean that basing a call for some people (government? Charity?) to do something of a statistically significant beta is misguided?
-:::
 
-::: {.column width="30%"}
-_Thanks to Alasdair Rutherford for suggesting this point!_
-:::
-:::
 
 
 ## THANKS EVERYONE! {.center background-image="images/blank-background.png"}
@@ -115,7 +109,7 @@ _Thanks to Alasdair Rutherford for suggesting this point!_
 :::
 
 
-## BONUS
+## BONUS: MODEL FIT
 
 - One area where our two regimes does matter is model fit
 - In case of linear model, R2 is fraction of variance explained
