@@ -34,7 +34,7 @@ engine: knitr
 
 ## DISCRIMINATORY ACCURACY
 
-![]("https://raw.githubusercontent.com/benmatthewsed/what_to_do_odds_ratios/main/03_figures/merlo_plot.png"){fig-alt="Insert alt text."}
+![]("https://raw.githubusercontent.com/benmatthewsed/what_to_do_odds_ratios/main/03_figures/merlo_plot.png")
 
 ## SAME OBSERVABLES: DIFFERENT OUTCOMES
 
@@ -48,3 +48,50 @@ engine: knitr
 
 
 ## POPULATION THINKING VS TYPOLOGICAL THINKING {.center background-image=,"images/blank-background.png"}
+
+## TYPOLOGICAL THINKING
+
+- Adolphe Quetelet and the ‘average man’ – variance around the mean is noise/deviance from the ‘true’ value
+- “In typological thinking, deviations from the mean are simply “errors,” with the mean approaching the true cause. That is, the true cause is constant, but what we actually observe is contaminated by measurement error.”
+- See also Hacking
+
+## POPULATION THINKING
+
+- Darwin and Galton (eek!) - how some characteristic is distributed (i.e. its variance) is as important as the average
+- “Inherent population heterogeneity… makes it futile to draw “law-like” inferences from statistical analyses in social science.”
+
+## DOES IT MATTER IN PRACTICE?
+
+- This primarily affects interpretation not estimation
+- For a regression model, maths is the same for the two perspectives 1 
+- But thinking about the problem is different?
+- Measuring a fixed but unknown beta with some error vs “observations of _y_ could differ from one another not only because of measurement error but also because they are inherently different members of the same population”
+
+## DOES IT MATTER IN PRACTICE?
+
+- I don’t think really many people now think in this typological way?
+- Especially in the social sciences I think people are happy with the idea of ‘sampling variability’/irreducible error?
+
+## A USEFUL TOOL FOR THINKING?
+
+- The population thinking approach is useful encourage thinking along these lines – the variation is something that you can model explicitly if you want to
+- Maybe you care about how much/the shape of the variability there is within a group once average differences are controlled for 1 
+- By focusing on how people with the same observables vary we can avoid essentializing people? 2 
+
+
+## WHAT ABOUT IMPACT? {.center background-image=,"images/blank-background.png"}
+
+::: columns
+::: {.column width="70%"}
+- The current push for focus on immediate impact (i.e how can our research lead individual orgs to do different things) rather than broader impact (influencing a policy design) means that we may need to think more about how the implications might be used at a more micro-level 
+- Does all this mean that basing a call for some people (government? Charity?) to do something of a statistically significant beta is misguided?
+:::
+
+::: {.column width="30%"}
+_Thanks to Alasdair Rutherford for suggesting this point!_
+:::
+:::
+
+
+## THANKS EVERYONE! {.center background-image=,"images/blank-background.png"}
+
